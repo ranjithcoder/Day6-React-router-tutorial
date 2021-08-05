@@ -1,7 +1,12 @@
 # Day6-React-router-tutorial
 today is day 6 of ***100 days of code*** i gained knowledge of react-router.
 >#### Running instructions
-go to terminal and type
+- clone the project using 
+```
+git clone
+```
+- after cloning open in vscode
+- go to terminal and type
 ```
 npm start
 ```
